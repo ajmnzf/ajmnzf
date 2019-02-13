@@ -3,10 +3,11 @@ layout: post
 title:  "Cómo administrar tu dinero cuando no tienes - Eric Wecks"
 date:   2018-10-28 12:00:00 -0600
 categories: pensamientos
-permalink: /:title/
+featured-image: como-administrar-tu-dinero-cuando-no-tienes.jpg
 ---
 
-<img src="/assets/post-images/como-administrar-tu-dinero-cuando-no-tienes.jpg">
+![]({{site.featured-image-dir|append:page.featured-image}})
+
 
 <a href="https://amzn.to/2JnjScK"><img src="/assets/images/libro-como-administrar-tu-dinero-cuando-no-tienes.jpg"></a>
 
@@ -26,7 +27,7 @@ Ahora, los presupuestos pueden ser aburridos y molestos, como seguir una dieta f
 
 La forma correcta de elaborar un presupuesto es verlo como si conscientemente estuvieras tomando la decisión de qué vas a hacer con ese dinero, a qué cosas lo vas a destinar. No necesariamente tiene que ser comida, ropa y techo. Puede que tus prioridades y lo que valores sea diferente. Lo importante es que decidas de antemano en qué vas a ocupar el dinero en lugar de comprar cosas que ni quieres ni necesitas.
 
-Lo más destacado:
+## Lo más destacado:
 
 Es mejor ocupar el dinero en nosotros que en cómo nos ven los demás.
 

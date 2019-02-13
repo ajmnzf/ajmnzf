@@ -3,10 +3,11 @@ layout: post
 title:  "Fueras de Serie - Malcolm Gladwell"
 date:   2018-04-19 12:00:00 -0600
 categories: pensamientos
-permalink: /:title/
+featured-image: fueras-de-serie-malcolm-gladwell.jpg
 ---
 
-<img src="/assets/post-images/fueras-de-serie-malcolm-gladwell.jpg">
+![]({{site.featured-image-dir|append:page.featured-image}})
+
 
 <h1><a href="https://www.amazon.com.mx/gp/product/6073141866/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=6073141866&amp;linkCode=as2&amp;tag=ajmnzf-20&amp;linkId=eed4fdf8a9a9fe9bae9ea8862d3a2fc8" target="_blank" rel="noopener">Fueras de serie: Por qué unas personas tienen éxito y otras no</a></h1>
 

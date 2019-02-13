@@ -3,10 +3,11 @@ layout: post
 title:  "Lo tengo todo"
 date:   2017-11-30 12:00:00 -0600
 categories: pensamientos
-permalink: /:title/
+featured-image: lo-tengo-todo.jpg
 ---
 
-<img src="/assets/post-images/lo-tengo-todo.jpg">
+![]({{site.featured-image-dir|append:page.featured-image}})
+
 
 A veces, en un momento de tranquilidad, me siento feliz. Como si lo tuviera todo.
 

@@ -3,10 +3,13 @@ layout: post
 title:  "Homo Deus"
 date:   2018-04-17 12:00:00 -0600
 categories: pensamientos
-permalink: /:title/
+featured-image: homo-deus.jpg
 ---
 
-<img src="/assets/post-images/homo-deus.jpg">
+![]({{site.featured-image-dir|append:page.featured-image}})
+
+
+<a href="hhttps://amzn.to/2GFdoqe"><img src="/assets/images/libro-homo-deus.jpg"></a>
 
 <p><a target="_blank" href="https://www.amazon.com.mx/gp/product/6073149891/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=6073149891&amp;linkCode=as2&amp;tag=ajmnzf-20&amp;linkId=9eafe5f711bcbc1437a3964514cf102b">Homo deus: Breve historia del mañana</a></p>
 
