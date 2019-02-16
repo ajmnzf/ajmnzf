@@ -4,6 +4,7 @@ title:  "Querer no es poder"
 date:   2018-07-24 12:00:00 -0600
 categories: pensamientos
 featured-image: querer-no-es-poder.jpg
+description: "Si tengo la voluntad de conseguir algo hay un camino para lograrlo. Esa es la diferencia, en nuestro idioma nos dicen que simplemente con imaginarlo lo vamos a tener, cuando en inglés dicen que si quieres habrá un camino, pero no necesariamente vas a lograrlo."
 ---
 
 ![]({{site.featured-image-dir|append:page.featured-image}})

@@ -4,6 +4,7 @@ title:  "Fueras de Serie - Malcolm Gladwell"
 date:   2018-04-19 12:00:00 -0600
 categories: pensamientos
 featured-image: fueras-de-serie-malcolm-gladwell.jpg
+description: "Este libro habla sobre las personas famosas y exitosas. Sin duda tienen una larga trayectoria y sus resultados son el fruto de su esfuerzo, son personas muy dedicadas a su trabajo. Dos grandes ejemplos son Bill Gates y Steve Jobs. Pero, ¿realmente fue por su esfuerzo y dedicación que llegaron a la cima?"
 ---
 
 ![]({{site.featured-image-dir|append:page.featured-image}})

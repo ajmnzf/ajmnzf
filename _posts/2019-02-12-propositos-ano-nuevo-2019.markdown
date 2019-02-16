@@ -4,6 +4,7 @@ title:  "Mis propósitos de año nuevo"
 categories: pensamientos
 permalink: /propositos2019/
 featured-image: mis-propositos-ano-nuevo-2019.jpg
+description: "Ya son mediados de febrero, pero no es necesario esperar a que sea un lunes 1 de enero para comenzar un cambio."
 ---
 
 ![fuegos artificiales en la playa]({{site.featured-image-dir|append:page.featured-image}})
@@ -48,7 +49,7 @@ Paso mucho tiempo sentado, he llegado al punto en el que no puedo sentarme en un
 
 ## Ahorro
 
-Ahorrar y después gastar lo demás en lugar de gastar y guardar lo que quede, ya escribí sobre el ahorro en []
+Ahorrar y después gastar lo demás en lugar de gastar y guardar lo que quede, ya escribí sobre el ahorro en [Cómo administrar tu dinero cuando no tienes](https://ajmnzf.com/como-administrar-tu-dinero-cuando-no-tienes)
 
 Poner en una balanza costo/beneficio mis decisiones financieras.
 
