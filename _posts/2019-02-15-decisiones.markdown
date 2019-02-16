@@ -3,6 +3,7 @@ layout: post
 title:  "Decisiones"
 categories: pensamientos
 featured-image: decisiones.png
+summary: "No podemos saber con certeza qué es lo que va a pasar en el futuro, pero podemos tomar en cuenta la situación en la que estamos para tomar la mejor decisión."
 ---
 
 ![fuegos artificiales en la playa]({{site.featured-image-dir|append:page.featured-image}})
