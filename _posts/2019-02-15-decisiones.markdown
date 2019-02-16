@@ -18,10 +18,10 @@ Siempre debes estar consciente de que cuendo dices "no" también estás diciendo
 
 Por ejemplo:
 
-Salir de fiesta? No.
+¿Salir de fiesta? No.
 Quedarse: Tiempo para hacer otras cosas.
 
-Cambiar de trabajo? No.
+¿Cambiar de trabajo? No.
 Seguir: Continuidad, estabilidad (aunque probablemente no), un lugar conocido, práctica etc.
 
 ¿Comer esa hamburguesa doble con papas fritas y refresco? No.
