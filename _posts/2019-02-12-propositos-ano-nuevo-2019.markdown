@@ -49,7 +49,7 @@ Paso mucho tiempo sentado, he llegado al punto en el que no puedo sentarme en un
 
 ## Ahorro
 
-Ahorrar y después gastar lo demás en lugar de gastar y guardar lo que quede, ya escribí sobre el ahorro en [Cómo administrar tu dinero cuando no tienes](https://ajmnzf.com/como-administrar-tu-dinero-cuando-no-tienes)
+Ahorrar y después gastar lo demás en lugar de gastar y guardar lo que quede, ya escribí sobre el ahorro en [Cómo administrar tu dinero cuando no tienes](https://ajmnzf.com/como-administrar-tu-dinero-cuando-no-tienes-eric-wecks)
 
 Poner en una balanza costo/beneficio mis decisiones financieras.
 
